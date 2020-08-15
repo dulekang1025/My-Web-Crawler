@@ -1,2 +1,2 @@
-# my_spider
+# Web Crawler
 My web crawling tool using Scrapy.
